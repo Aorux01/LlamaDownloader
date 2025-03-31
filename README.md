@@ -62,5 +62,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 ## Contact
 
 If you have any questions, feedback, if you want to add a build or you have any problem with this, contact me on Discord with @aorux01
-
-Feel free to customize this template with your own information and details. Good luck with your project!
