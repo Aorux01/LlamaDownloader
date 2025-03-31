@@ -57,7 +57,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 ## Screenshots
 
-![Description de l'image](image/image1.png)
+![Description de l'image](images/image1.png)
 
 ## Contact
 
