@@ -15,7 +15,7 @@ This software is inspired by "EasyInstaller", but is not related to it. The diff
 
 ## Installation
 
-1.  Download the latest release of LlamaDownloader from the [Releases](link_to_releases) page.
+1.  Download the latest release of LlamaDownloader from the [Releases](https://github.com/Aorux01/LlamaDownloader/releases/tag/FortniteBuilds) page.
 2.  Run the `LlamaDownloader.exe` file.
 3.  Follow the on-screen instructions to select and download your desired Fortnite season.
 
