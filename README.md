@@ -9,7 +9,7 @@ This software is inspired by "EasyInstaller", but is not related to it. The diff
 
 ## Features
 
-* **Easy Season Selection**: Download any season from Chapter 1, 2, and 3 with just a few clicks.
+* **Easy Season Selection**: Download any season from Chapter 1, 2, 3, 4 and 5 (32.11) with just a few clicks.
 * **Fast Downloads**: Optimized for speed, ensuring you get your files quickly.
 * **No Manifest Required**: Bypasses the need for complex manifest files, making the process straightforward.
 
